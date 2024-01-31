@@ -1,0 +1,15 @@
+import { Component } from '@angular/core';
+
+@Component({
+  selector: 'lib-bits-n-pieces',
+  template: `
+    <p>
+      bits-n-pieces works!
+    </p>
+  `,
+  styles: [
+  ]
+})
+export class BitsNPiecesComponent {
+
+}
